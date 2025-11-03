@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+    
+    <!-- Hotel 1: Example from assignment -->
+    <Hotel Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>11</Number>
+            <Street>E 7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 2: The Plaza -->
+    <Hotel Rating="4.5">
+        <Name>The Plaza</Name>
+        <Phone>212-759-3000</Phone>
+        <Phone>888-850-0909</Phone>
+        <Address NearestAirport="LaGuardia">
+            <Number>768</Number>
+            <Street>Fifth Avenue</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10019</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 3: The Ritz-Carlton New York -->
+    <Hotel Rating="4.6">
+        <Name>The Ritz-Carlton New York</Name>
+        <Phone>212-308-9100</Phone>
+        <Address NearestAirport="JFK">
+            <Number>50</Number>
+            <Street>Central Park South</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10019</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 4: Waldorf Astoria (no rating - optional attribute) -->
+    <Hotel>
+        <Name>Waldorf Astoria New York</Name>
+        <Phone>212-355-3000</Phone>
+        <Phone>800-925-3673</Phone>
+        <Phone>212-872-7272</Phone>
+        <Address NearestAirport="Newark">
+            <Number>301</Number>
+            <Street>Park Avenue</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10017</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 5: The St. Regis New York -->
+    <Hotel Rating="4.7">
+        <Name>The St. Regis New York</Name>
+        <Phone>212-753-4500</Phone>
+        <Phone>877-787-3447</Phone>
+        <Address NearestAirport="LaGuardia">
+            <Number>2</Number>
+            <Street>East 55th Street</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10022</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 6: Four Seasons Hotel New York -->
+    <Hotel Rating="4.8">
+        <Name>Four Seasons Hotel New York</Name>
+        <Phone>212-758-5700</Phone>
+        <Address NearestAirport="JFK">
+            <Number>57</Number>
+            <Street>East 57th Street</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10022</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 7: The Carlyle (no rating) -->
+    <Hotel>
+        <Name>The Carlyle</Name>
+        <Phone>212-744-1600</Phone>
+        <Phone>888-767-3966</Phone>
+        <Address NearestAirport="LaGuardia">
+            <Number>35</Number>
+            <Street>East 76th Street</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10021</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 8: Mandarin Oriental New York -->
+    <Hotel Rating="4.6">
+        <Name>Mandarin Oriental New York</Name>
+        <Phone>212-805-8800</Phone>
+        <Phone>866-801-8880</Phone>
+        <Address NearestAirport="Newark">
+            <Number>80</Number>
+            <Street>Columbus Circle</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10023</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 9: The Peninsula New York -->
+    <Hotel Rating="4.5">
+        <Name>The Peninsula New York</Name>
+        <Phone>212-956-2888</Phone>
+        <Address NearestAirport="JFK">
+            <Number>700</Number>
+            <Street>Fifth Avenue</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10019</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 10: The Mark -->
+    <Hotel>
+        <Name>The Mark</Name>
+        <Phone>212-744-4300</Phone>
+        <Phone>866-744-4300</Phone>
+        <Phone>212-744-2749</Phone>
+        <Address NearestAirport="LaGuardia">
+            <Number>25</Number>
+            <Street>East 77th Street</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10075</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 11: Park Hyatt New York -->
+    <Hotel Rating="4.7">
+        <Name>Park Hyatt New York</Name>
+        <Phone>646-774-1234</Phone>
+        <Address NearestAirport="Newark">
+            <Number>153</Number>
+            <Street>West 57th Street</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10019</Zip>
+        </Address>
+    </Hotel>
+
+</Hotels>
